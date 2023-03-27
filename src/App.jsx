@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import emptyStar from './assets/empty-star.png'
-import fullStar from './assets/full-star.png'
+import fullStar from './assets/full_star.png'
 
 function App() {
   const [person, setPerson] = useState({
